@@ -46,14 +46,6 @@ In the dataset provided, you will notice that there are three columns named 'cas
 Model Evaluation:
 When you're done with model building and residual analysis and have made predictions on the test set, just make sure you use the following two lines of code to calculate the R-squared score on the test set
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies and Libraries Used
 Technologies :- Python & Jupyter notebook 
