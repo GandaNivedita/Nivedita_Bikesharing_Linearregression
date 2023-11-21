@@ -55,26 +55,26 @@ When you're done with model building and residual analysis and have made predict
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
+## Technologies and Libraries Used
+Technologies :- Python & Jupyter notebook 
+Libraries are given below:- 
+numpy
+pandas 
+matplotlib
+seaborn 
+statsmodels 
+sklearn
+Warnings
+RandomForestRegressor
+logging
+re
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was based on Upgrad Content and their classes I attended .
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by @GandaNivedita feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
+ This project is open source and available under the Github platform 
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
